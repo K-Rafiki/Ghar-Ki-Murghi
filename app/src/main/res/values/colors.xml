@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDFAE1</color>
+    <color name="colorPrimaryDark">#fcf3a7</color>
+    <color name="colorAccent">#6A4A22</color>
+    <color name="white">#FFF</color>
+    <color name="main_color">#FDFAE1</color>
+    <color name="text_color">#6A4A22</color>
+    <color name="black">#000</color>
+    <color name="textmain">#212121</color>
+    <color name="textsecond">#757575</color>
+    <color name="onboard">#72BCF7</color>
+
+
+
+
+</resources>

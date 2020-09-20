@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012488801801",
+    "firebase_url": "https://desimurghi-6798d.firebaseio.com",
+    "project_id": "desimurghi-6798d",
+    "storage_bucket": "desimurghi-6798d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012488801801:android:6ed14d36a6af1a2ffbb2d8",
+        "android_client_info": {
+          "package_name": "com.eyris.desimurghi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012488801801-2r187dup74o5g3mnk1phh359m7q9the8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsPBNaAywxTl-07M81wPKyUAl0sYgjjk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012488801801-2r187dup74o5g3mnk1phh359m7q9the8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
